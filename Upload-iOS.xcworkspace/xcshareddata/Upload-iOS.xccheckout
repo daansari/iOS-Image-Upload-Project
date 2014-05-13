@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28AC5852-8F95-406A-97D9-69B103888203</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Upload-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>21D585EA-0508-4570-88E6-CA3FE238468B</key>
+		<string>https://github.com/daansari/Upload-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Upload-iOS.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>21D585EA-0508-4570-88E6-CA3FE238468B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daansari/Upload-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>21D585EA-0508-4570-88E6-CA3FE238468B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>21D585EA-0508-4570-88E6-CA3FE238468B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Upload-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
